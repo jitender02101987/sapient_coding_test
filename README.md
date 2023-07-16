@@ -19,7 +19,7 @@ $env:ARM_CLIENT_SECRET="XXXXX"
 $env:ARM_TENANT_ID="3eed6cf0-578f-4fdc-8c56-b41a9db82a11"
 $env:ARM_SUBSCRIPTION_ID="8391c2ef-71f0-4f2d-a184-87fada4f8afd"
 
-./terraform.exe init
+./terraform.exe init  
 ./terraform.exe plan
 ./terraform.exe apply --auto-approve
 ./terraform.exe destroy --auto-approve
