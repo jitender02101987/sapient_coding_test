@@ -2,6 +2,7 @@
 This repo is created for Sapient Cloud and DevOps Assignment.
 
 Prerequisite
+
 Install [Terraform]
 Install [Azure Cli]
 Create Service Principal with contributer access on your subscription scope
